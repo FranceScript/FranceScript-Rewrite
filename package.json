@@ -1,0 +1,26 @@
+{
+  "name": "francescript",
+  "version": "1.0.0",
+  "description": "A transpiler created for nothing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranceScript/FranceScript-Rewrite.git"
+  },
+  "keywords": [
+    "js",
+    "transpiler"
+  ],
+  "author": "Seyz123, NarumiLy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FranceScript/FranceScript-Rewrite/issues"
+  },
+  "homepage": "https://github.com/FranceScript/FranceScript-Rewrite#readme",
+  "dependencies": {
+    "abstract-syntax-tree": "^2.20.6"
+  }
+}
