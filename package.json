@@ -4,7 +4,7 @@
   "description": "A transpiler created for nothing.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
     "js",
     "transpiler"
   ],
-  "author": "Seyz123, NarumiLy",
+  "author": "Seyz, NarumiLy",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FranceScript/FranceScript-Rewrite/issues"
